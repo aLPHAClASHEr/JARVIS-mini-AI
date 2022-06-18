@@ -1,0 +1,7 @@
+pyttsx3
+datetime
+speechRecognition
+wikipedia
+webbrowser
+os
+random
